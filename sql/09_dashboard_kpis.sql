@@ -1,7 +1,4 @@
--- =====================================================================
--- Step 9 : headline numbers behind each dashboard page
--- These queries are also used to cross-check the dashboard figures.
--- =====================================================================
+
 
 USE loan_risk_db;
 

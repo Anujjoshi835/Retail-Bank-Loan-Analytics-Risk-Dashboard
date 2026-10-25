@@ -1,8 +1,3 @@
--- =====================================================================
--- Step 5 : data quality checks on the staging table
--- Nothing is changed here; the output is used to decide what cleaning
--- (if any) the load step needs.
--- =====================================================================
 
 USE loan_risk_db;
 

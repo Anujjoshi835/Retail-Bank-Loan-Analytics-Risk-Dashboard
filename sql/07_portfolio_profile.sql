@@ -1,7 +1,3 @@
--- =====================================================================
--- Step 7 : portfolio profile (exploratory analysis)
--- What does the loan book look like before any risk question is asked?
--- =====================================================================
 
 USE loan_risk_db;
 

@@ -1,7 +1,4 @@
--- =====================================================================
--- Step 3 : main fact table, one row per loan application
--- Yes/No columns of the source file are stored as 0/1 flags.
--- =====================================================================
+
 
 USE loan_risk_db;
 

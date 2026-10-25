@@ -1,9 +1,3 @@
--- =====================================================================
--- Step 6 : ETL from staging into the normalized tables
---   1. add any category that is new to the lookup tables
---   2. replace text labels by lookup keys, Yes/No by 1/0
---   3. reconcile row counts
--- =====================================================================
 
 USE loan_risk_db;
 
